@@ -1,125 +1,138 @@
 <div align="center">
 
-# Hi 👋 I'm M. Nithish Sarwin
+# M. Nithish Sarwin
 
 ### Artificial Intelligence & Machine Learning Student
 
-Building intelligent software, automation systems, and scalable backend applications.
+*Building intelligent software, automation systems, and scalable applications.*
 
-<p align="center">
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:mnithishsarwin@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://leetcode.com/u/nithish1721/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
-</p>
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 B.E Artificial Intelligence & Machine Learning
-- 💻 Java • Python • C • C++
-- 🤖 AI • Machine Learning • Automation
-- 🚀 Interested in Backend Development & Intelligent Systems
-- 🌱 Learning Spring Boot, System Design & Advanced DSA
-- 🎯 Aspiring Software Engineer
+AI & ML student focused on backend development, automation, and problem solving through practical software engineering. I enjoy turning complex problems into clean, working systems.
 
----
+**Currently learning:** Spring Boot · System Design · Advanced Java · Advanced DSA
+**Career goal:** Software Engineer
 
-## 🛠 Tech Stack
+<br/>
 
-**Languages**
+## Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp"/>
-</p>
+**Programming**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp&theme=dark" />
+
+**AI / ML**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,opencv&theme=dark" />
 
 **Web**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
-</p>
+**Database**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
 
-**Database & Tools**
+**Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,arduino&theme=dark" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,arduino"/>
-</p>
+<br/>
 
----
+## Featured Projects
 
-## 🚀 Featured Projects
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🔹 BIOSYNC *(Completed)*
+### BIOSYNC
+**Status:** Completed
 
-Automated biometric attendance platform with WhatsApp reporting.
+Automated biometric attendance system that syncs attendance data, processes reports, and sends real-time WhatsApp notifications.
 
-**Python • Pandas • Selenium**
+`Python` `Pandas` `Selenium` `Google Drive API`
 
----
+</td>
+<td width="50%" valign="top">
 
-### 🔹 Smart Printing Platform *(UI Completed)*
+### QR-Based Smart Printing Platform
+**Status:** UI Completed · Backend In Progress
 
-QR-based cloud printing solution with payment integration.
+QR-based cloud printing platform for file upload, print customization, online payments, and print job management.
 
-**Wix Velo • JavaScript**
+`JavaScript` `Wix Velo` `Razorpay`
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 🔹 Hybrid EV Charging *(Concept)*
+### Hybrid EV Charging Infrastructure
+**Status:** Concept & Prototype Design
 
-Smart EV charging ecosystem powered by IoT and renewable energy.
+Smart EV charging ecosystem integrating toll booth charging stations, mobile charging units, solar energy, and IoT monitoring.
 
----
+</td>
+<td width="50%" valign="top">
 
-### 🔹 Pricelytix *(Research Stage)*
+### Pricelytix
+**Status:** Concept Stage
 
-AI-powered smart price tracking and automated purchase platform.
+AI-powered price tracking system comparing prices across e-commerce platforms with intelligent notifications and future automated purchasing.
 
----
+</td>
+</tr>
+</table>
 
-## 🏆 Achievements
+<br/>
 
-- 🥇 Certificate of Recognition – BIOSYNC
-- 🏸 College Badminton Champion
-- 💼 AI, Deep Learning & Web Development Intern
+## Experience
 
----
+**AI/ML & Web Development Intern** — Emglitz Technologies
+Malaria Detection · VisionNet · Grocery Management System
 
-## 📜 Certifications
+<br/>
 
-- Python for Everybody — University of Michigan
-- AI For Everyone — DeepLearning.AI
-- IBM Data Science
-- Stanford Algorithms
+## Certifications
 
----
+Python for Everybody — University of Michigan · AI For Everyone — DeepLearning.AI · IBM Data Science · Stanford Algorithms · Google UX Design
 
-## 📈 GitHub Stats
+<br/>
 
-<p align="center">
+## Achievements
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+🏅 Certificate of Recognition — BIOSYNC &nbsp;·&nbsp; 🏸 College Badminton Champion &nbsp;·&nbsp; 💼 Multiple Industry Internships
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+<br/>
 
-</p>
-
----
-
-## 🔥 LeetCode
-
-<p align="center">
-
-<img src="https://leetcard.jacoblin.cool/nithish1721?theme=dark&font=Nunito"/>
-
-</p>
-
----
+## GitHub Stats
 
 <div align="center">
 
-### ⭐ Building intelligent software through AI, automation and scalable engineering.
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" />
+
+<br/>
+
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karla&ext=heatmap" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+*"Building intelligent software that creates real-world impact through AI, automation, and scalable engineering."*
 
 </div>
