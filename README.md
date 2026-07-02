@@ -1,94 +1,219 @@
+<div align="center">
+
 # Hi, I'm Nithish Sarwin 👋
 
-### AI & Machine Learning Student | Java Developer | Building Intelligent Software Solutions
+### Artificial Intelligence & Machine Learning Student | Java Developer | Backend Developer
 
-I am an Artificial Intelligence & Machine Learning student passionate about building scalable software, intelligent automation systems, and real-world applications. I enjoy solving complex problems, learning new technologies, and developing solutions that combine software engineering with AI.
+Building intelligent software, automation systems, and scalable applications with a passion for solving real-world problems.
+
+<p>
+<a href="https://linkedin.com/in/nithishsarwin">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:mnithishsarwin@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/nithish1721/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
+</a>
+
+</p>
+
+</div>
 
 ---
 
-## About Me
+# About Me
+
+I'm an Artificial Intelligence & Machine Learning student passionate about building software that solves practical problems.
+
+I enjoy developing backend applications, AI-powered systems, automation tools, and IoT solutions while continuously improving my software engineering skills.
 
 - 🎓 B.Tech Artificial Intelligence & Machine Learning
-- 🏫 V.S.B Engineering College
-- 💻 Strong interest in Software Development & AI
-- 🌱 Currently learning Advanced Java, Data Structures & Algorithms, Spring Boot, and System Design
-- 🚀 Interested in Backend Development, Artificial Intelligence, Automation, and IoT
+- 💻 Java • Python • C • C++
+- 🌱 Currently learning Spring Boot, System Design and Advanced DSA
+- 🚀 Interested in Backend Development, AI, Automation and IoT
 - 🎯 Goal: Software Engineer
 
 ---
 
-## Tech Stack
+# Tech Stack
 
 ### Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<p>
 
-### Web
+<img src="https://skillicons.dev/icons?i=java"/>
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=c"/>
+
+<img src="https://skillicons.dev/icons?i=cpp"/>
+
+</p>
+
+### Web Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=javascript"/>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+</p>
 
 ### Database
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</p>
 
 ### Tools
 
-Git • GitHub • VS Code • Arduino • Google Colab
+<p>
 
----
+<img src="https://skillicons.dev/icons?i=git"/>
 
-## Featured Projects
+<img src="https://skillicons.dev/icons?i=github"/>
 
-### BIOSYNC
-Automated biometric attendance management system with reporting and WhatsApp notification automation.
+<img src="https://skillicons.dev/icons?i=vscode"/>
 
-### Smart Printing Platform
-QR-based cloud printing solution supporting remote print submission and payment integration.
+<img src="https://skillicons.dev/icons?i=arduino"/>
 
-### Pricelytix
-AI-powered product price tracker with intelligent notifications and automated purchasing.
-
-### Hybrid EV Charging Infrastructure
-IoT-based hybrid EV charging system integrating solar energy and mobile charging solutions.
-
----
-
-## GitHub Statistics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Nithish-code17&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nithish-code17&theme=github-dark&hide_border=true" height="170"/>
 </p>
 
 ---
 
-## Most Used Languages
+# Featured Projects
+
+## BIOSYNC
+
+Automated biometric attendance management system that processes attendance records, generates reports, and delivers real-time notifications.
+
+**Tech:** Python • Pandas • Selenium • Google Drive API
+
+---
+
+## Smart Printing Platform
+
+Cloud-based QR printing solution allowing users to upload documents, configure print settings, and pay online.
+
+**Tech:** Wix Velo • Razorpay • JavaScript
+
+---
+
+## Pricelytix
+
+AI-powered smart price tracking platform with intelligent notifications and automated purchasing.
+
+**Tech:** Python • AI • Web Automation
+
+---
+
+## Hybrid EV Charging Infrastructure
+
+Hybrid EV charging ecosystem integrating solar power, IoT monitoring, toll booth charging, and mobile charging solutions.
+
+**Tech:** IoT • Solar Energy • Cloud Platform
+
+---
+
+# GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithish-code17&layout=compact&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true"/>
+
 </p>
 
 ---
 
-## Currently Learning
+# Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+# GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&no-frame=true&margin-w=15&row=1"/>
+
+</p>
+
+---
+
+# LeetCode Progress
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/nithish1721?theme=dark&font=Nunito&ext=heatmap"/>
+
+</p>
+
+---
+
+# Currently Learning
 
 - Advanced Java
-- Spring Boot
 - Data Structures & Algorithms
+- Spring Boot
+- REST APIs
 - System Design
 - Artificial Intelligence
 - Machine Learning
 
 ---
 
-## Connect With Me
+# 2026 Goals
 
-- LinkedIn: https://linkedin.com/in/nithishsarwin
-- LeetCode: https://leetcode.com/u/nithish1721
-- Email: mnithishsarwin@gmail.com
+- Contribute to Open Source
+- Earn GitHub Achievements
+- Solve 500+ LeetCode Problems
+- Build Scalable Full-Stack Applications
+- Master Spring Boot
+- Land a Software Engineering Role
+
+---
+
+# Connect With Me
+
+<p>
+
+<a href="https://linkedin.com/in/nithishsarwin">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:mnithishsarwin@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/nithish1721/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+*"Building technology that solves real-world problems through software, AI, and automation."*
+
+</div>
