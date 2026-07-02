@@ -1,22 +1,27 @@
 <div align="center">
 
-# Hi, I'm Nithish Sarwin 👋
+# Hi 👋, I'm M. Nithish Sarwin
 
-### Artificial Intelligence & Machine Learning Student | Java Developer | Backend Developer
+### Artificial Intelligence & Machine Learning Student | Java Developer | AI & Automation Enthusiast
 
-Building intelligent software, automation systems, and scalable applications with a passion for solving real-world problems.
+Building intelligent software, scalable backend systems, and AI-powered solutions to solve real-world problems.
 
-<p>
-<a href="https://linkedin.com/in/nithishsarwin">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+<p align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:mnithishsarwin@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/nithish1721/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 </p>
@@ -25,23 +30,24 @@ Building intelligent software, automation systems, and scalable applications wit
 
 ---
 
-# About Me
+# 👨‍💻 About Me
 
-I'm an Artificial Intelligence & Machine Learning student passionate about building software that solves practical problems.
+I am an **Artificial Intelligence and Machine Learning student** passionate about developing intelligent systems, automation platforms, and scalable software solutions.
 
-I enjoy developing backend applications, AI-powered systems, automation tools, and IoT solutions while continuously improving my software engineering skills.
+I enjoy transforming ideas into practical applications by combining **Artificial Intelligence, Backend Development, Java, and Automation**. I continuously improve my technical skills through real-world projects, internships, and competitive programming.
 
-- 🎓 B.Tech Artificial Intelligence & Machine Learning
+- 🎓 B.E. Artificial Intelligence & Machine Learning
 - 💻 Java • Python • C • C++
-- 🌱 Currently learning Spring Boot, System Design and Advanced DSA
-- 🚀 Interested in Backend Development, AI, Automation and IoT
+- 🤖 Passionate about AI, Machine Learning & Intelligent Systems
+- 🚀 Interested in Backend Development, Automation & IoT
+- 🌱 Currently learning Spring Boot, System Design & Advanced DSA
 - 🎯 Goal: Software Engineer
 
 ---
 
-# Tech Stack
+# 🚀 Technical Skills
 
-### Languages
+## Programming Languages
 
 <p>
 
@@ -55,7 +61,28 @@ I enjoy developing backend applications, AI-powered systems, automation tools, a
 
 </p>
 
-### Web Development
+---
+
+## AI & Machine Learning
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+</p>
+
+- Machine Learning
+- Deep Learning
+- Data Analysis
+- Data Preprocessing
+- Computer Vision
+- Automation Systems
+
+---
+
+## Web Development
 
 <p>
 
@@ -69,7 +96,9 @@ I enjoy developing backend applications, AI-powered systems, automation tools, a
 
 </p>
 
-### Database
+---
+
+## Database
 
 <p>
 
@@ -77,7 +106,9 @@ I enjoy developing backend applications, AI-powered systems, automation tools, a
 
 </p>
 
-### Tools
+---
+
+## Tools & Platforms
 
 <p>
 
@@ -93,45 +124,86 @@ I enjoy developing backend applications, AI-powered systems, automation tools, a
 
 ---
 
-# Featured Projects
+# 💼 Internship Experience
 
-## BIOSYNC
+## AI/ML & Web Development Intern
 
-Automated biometric attendance management system that processes attendance records, generates reports, and delivers real-time notifications.
+**Emglitz Technologies**
 
-**Tech:** Python • Pandas • Selenium • Google Drive API
-
----
-
-## Smart Printing Platform
-
-Cloud-based QR printing solution allowing users to upload documents, configure print settings, and pay online.
-
-**Tech:** Wix Velo • Razorpay • JavaScript
+- Developed a Grocery Management System using HTML, CSS, and JavaScript.
+- Built a Machine Learning model for Malaria Detection.
+- Worked on **VisionNet**, a Deep Learning Framework for Multi-Object Recognition.
+- Gained practical experience in AI model development, data preprocessing, and real-world software development.
 
 ---
 
-## Pricelytix
+# 🚀 Featured Projects
 
-AI-powered smart price tracking platform with intelligent notifications and automated purchasing.
+## 🔹 BIOSYNC *(Completed)*
 
-**Tech:** Python • AI • Web Automation
+Automated biometric attendance management system that processes attendance records, synchronizes biometric data, and delivers real-time WhatsApp reports without manual intervention.
 
----
+**Tech Stack**
 
-## Hybrid EV Charging Infrastructure
-
-Hybrid EV charging ecosystem integrating solar power, IoT monitoring, toll booth charging, and mobile charging solutions.
-
-**Tech:** IoT • Solar Energy • Cloud Platform
+Python • Pandas • Selenium • Google Drive API
 
 ---
 
-# GitHub Statistics
+## 🔹 QR-Based Smart Printing Platform *(UI Completed)*
+
+Cloud-based QR printing platform enabling users to upload documents, configure print settings, complete online payments, and manage print jobs through a centralized dashboard.
+
+**Tech Stack**
+
+Wix Velo • JavaScript • Razorpay
+
+---
+
+## 🔹 Hybrid EV Charging Infrastructure *(Concept & Prototype Design)*
+
+Designed a scalable EV charging ecosystem integrating toll booth charging stations, mobile charging units, renewable energy, and IoT-based monitoring.
+
+**Tech Stack**
+
+IoT • Renewable Energy • Cloud Platform
+
+---
+
+## 🔹 Pricelytix *(Concept Stage)*
+
+AI-powered smart price tracking platform that monitors product prices across multiple e-commerce websites and delivers intelligent price-drop notifications with future auto-purchase capability.
+
+**Tech Stack**
+
+Python • AI • Web Automation
+
+---
+
+# 🏆 Achievements
+
+- 🥇 Certificate of Recognition for **BIOSYNC**
+- 🏸 College Badminton Champion
+- 💼 Completed multiple industry internships in AI, Deep Learning & Web Development
+- 📚 Earned professional certifications from IBM, Stanford, Google, DeepLearning.AI and the University of Michigan
+
+---
+
+# 📜 Certifications
+
+- Python for Everybody Specialization — University of Michigan
+- AI For Everyone — DeepLearning.AI
+- What is Data Science? — IBM
+- Foundations of Data Science — IBM
+- Foundations of UX Design — Google
+- Divide and Conquer, Sorting and Searching — Stanford
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true"/>
 
@@ -139,7 +211,7 @@ Hybrid EV charging ecosystem integrating solar power, IoT monitoring, toll booth
 
 ---
 
-# Most Used Languages
+# 💻 Most Used Languages
 
 <p align="center">
 
@@ -149,17 +221,17 @@ Hybrid EV charging ecosystem integrating solar power, IoT monitoring, toll booth
 
 ---
 
-# GitHub Trophies
+# 🏅 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&no-frame=true&margin-w=15&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&no-frame=true&margin-w=15"/>
 
 </p>
 
 ---
 
-# LeetCode Progress
+# 💡 LeetCode Progress
 
 <p align="center">
 
@@ -169,39 +241,43 @@ Hybrid EV charging ecosystem integrating solar power, IoT monitoring, toll booth
 
 ---
 
-# Currently Learning
+# 🌱 Currently Learning
 
+- Spring Boot
 - Advanced Java
 - Data Structures & Algorithms
-- Spring Boot
-- REST APIs
 - System Design
-- Artificial Intelligence
+- REST APIs
 - Machine Learning
+- Deep Learning
 
 ---
 
-# 2026 Goals
+# 🎯 2026 Goals
 
-- Contribute to Open Source
-- Earn GitHub Achievements
-- Solve 500+ LeetCode Problems
-- Build Scalable Full-Stack Applications
-- Master Spring Boot
-- Land a Software Engineering Role
+- 🚀 Solve 500+ LeetCode Problems
+- 🌍 Contribute to Open Source
+- 💻 Build Production-Ready Applications
+- ☕ Master Java & Spring Boot
+- 🤖 Build End-to-End AI Applications
+- 💼 Start my career as a Software Engineer
 
 ---
 
-# Connect With Me
+# 📫 Connect With Me
 
 <p>
 
-<a href="https://linkedin.com/in/nithishsarwin">
+<a href="YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:mnithishsarwin@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/nithish1721/">
@@ -214,6 +290,6 @@ Hybrid EV charging ecosystem integrating solar power, IoT monitoring, toll booth
 
 <div align="center">
 
-*"Building technology that solves real-world problems through software, AI, and automation."*
+### ⭐ "Building intelligent software that creates real-world impact through AI, automation, and scalable engineering."
 
 </div>
