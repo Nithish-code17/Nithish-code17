@@ -1,4 +1,4 @@
-# M. Nithish Sarwin
+# M. Nithish 
 
 AI/ML student and software engineer focused on Java backend development, intelligent automation, and practical, data-driven products. I enjoy turning real-world workflows into reliable software with clean APIs, useful AI, and maintainable systems.
 
