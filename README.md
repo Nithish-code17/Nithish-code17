@@ -204,33 +204,6 @@ Real-World Engineering    → Projects that solve practical operational problems
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Nithish-code17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github" alt="Nithish's GitHub statistics" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithish-code17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Most used languages" />
-
-<br/>
-
-<img width="68%" src="https://streak-stats.demolab.com?user=Nithish-code17&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak" />
-
-</div>
-
-> GitHub language statistics show repository composition and do not represent overall skill level.
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nithish-code17&bg_color=0D1117&color=38BDF8&line=2563EB&point=FFFFFF&area=true&hide_border=true" alt="Contribution graph" />
-
-</div>
-
----
-
 ## 🎯 Engineering Philosophy
 
 <div align="center">
