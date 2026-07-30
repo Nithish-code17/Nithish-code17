@@ -1,27 +1,48 @@
-### M. Nithish Sarwin
+# M. Nithish Sarwin
 
-AI & ML student. Backend development by focus, automation by habit. Currently deep in Spring Boot, System Design, and Advanced DSA — aiming to become a Software Engineer.
+AI/ML student and software engineer focused on Java backend development, intelligent automation, and practical, data-driven products. I enjoy turning real-world workflows into reliable software with clean APIs, useful AI, and maintainable systems.
 
-**What I've built**
+## Current focus
 
-`BIOSYNC` — Automated biometric attendance system that syncs data, processes reports, and sends real-time WhatsApp notifications. Built with Python, Pandas, and Selenium, hooked into the Google Drive API.
+- Building backend services with **Java** and **Spring Boot**
+- Strengthening **data structures and algorithms (DSA)** and system design
+- Applying **Python**, **AI/ML**, and automation to production-style projects
+- Designing dependable database-backed applications and developer workflows
 
-`QR-Based Smart Printing Platform` — Cloud printing platform where users upload files, customize print settings, and pay online. UI complete, backend in progress. Built with JavaScript, Wix Velo, and Razorpay.
+## Featured projects
 
-`Pricelytix` — AI-powered price tracking system that compares prices across e-commerce platforms and sends intelligent notifications, with automated purchasing planned next. Concept stage.
+### Completed
 
-**Stack**
+- **[BIOSYNC](https://github.com/Nithish-code17/BIOSYNC-Smart-Attendance-and-Analytical-Platform)** — Smart attendance and analytics platform that automates attendance data processing, reporting, and notifications.
+- **[PCB Local Inspection](https://github.com/Nithish-code17/PCB_LOCAL_INSPECTION)** — Local computer-vision workflow for inspecting printed circuit boards.
 
-```
-Languages   Java · Python · C · C++
-AI/ML       TensorFlow · scikit-learn · OpenCV
-Web         HTML · CSS · JavaScript · React
-Database    MySQL
-Tools       Git · GitHub · VS Code · Arduino IDE
-```
+### Active
 
-**Experience**
+- **[Pricelytix](https://github.com/Nithish-code17/pricelytix)** — Implemented AI-powered full-stack price-tracking platform for comparing product prices and supporting intelligent price alerts.
+- **[DocuMind AI](https://github.com/Nithish-code17/documind-ai)** — AI-assisted document analysis project focused on making information in documents easier to query and understand.
+- **[CITADREX Legal IR](https://github.com/Nithish-code17/citadrex-legal-ir)** — Legal information-retrieval project for organizing and finding relevant legal material.
 
-AI/ML & Web Development Intern, Emglitz Technologies — worked on Malaria Detection, VisionNet, and a Grocery Management System.
+### In progress
 
-[LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME) · [GitHub](https://github.com/YOUR_GITHUB_USERNAME) · [LeetCode](https://leetcode.com/YOUR_LEETCODE_USERNAME) · [Email](mailto:YOUR_EMAIL@gmail.com)
+- **QR-Based Smart Printing Platform** — Cloud printing workflow for uploading files, configuring print options, and handling online payments; the interface is complete and backend work is ongoing.
+
+## Technical skills
+
+- **Languages:** Java, Python, C, C++, JavaScript
+- **Backend:** Spring Boot, API development, automation workflows
+- **AI/ML:** Machine learning, TensorFlow, scikit-learn, OpenCV
+- **Web:** HTML, CSS, JavaScript, React
+- **Data:** MySQL, database design and integration
+- **Engineering:** DSA, Git, GitHub, debugging, version control
+
+## Experience and achievements
+
+- Built projects spanning backend systems, AI/ML, computer vision, document intelligence, and browser automation.
+- Developed end-to-end solutions for attendance analytics, price tracking, legal information retrieval, document analysis, smart printing, and PCB inspection.
+- Gained hands-on experience integrating software components, databases, APIs, automation tools, and user-facing interfaces.
+
+## Contact
+
+- [GitHub](https://github.com/Nithish-code17)
+- [LinkedIn](https://linkedin.com/in/nithishsarwin)
+- [Email](mailto:mnithishsarwin@gmail.com)
