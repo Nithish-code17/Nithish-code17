@@ -1,247 +1,342 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=230&section=header&text=Nithish%20Sarwin&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Java%20Backend%20Developer%20%7C%20Automation%20Builder&descAlignY=58&descSize=18" />
-
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+intelligent+software+for+real-world+problems;Java+Backend+%7C+AI%2FML+%7C+Automation;Turning+complex+workflows+into+reliable+systems;Always+learning.+Always+building." alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,35:0F172A,70:0E7490,100:22D3EE&height=190&section=header&text=NITHISH%20SARWIN&fontSize=48&fontColor=F8FAFC&fontAlignY=38&desc=BUILDING%20INTELLIGENT%20SYSTEMS%20THAT%20SOLVE%20REAL%20PROBLEMS&descAlignY=61&descSize=15" />
+
+### `AI/ML ENGINEER` · `JAVA BACKEND DEVELOPER` · `AUTOMATION BUILDER`
+
+<a href="https://linkedin.com/in/nithishsarwin">
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Nithish-code17&label=PROFILE+VIEWS&color=2563eb&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/Nithish-code17?label=FOLLOWERS&style=for-the-badge&color=06b6d4" alt="Followers" />
-<img src="https://img.shields.io/badge/FOCUS-AI%20%26%20BACKEND-0f172a?style=for-the-badge" alt="Focus" />
+<a href="mailto:mnithishsarwin@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-SAY%20HELLO-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/Nithish-code17?tab=repositories">
+  <img src="https://img.shields.io/badge/GITHUB-EXPLORE%20MY%20WORK-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/nithishsarwin">
-  <img src="https://img.shields.io/badge/LinkedIn-Nithish%20Sarwin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:mnithishsarwin@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/Nithish-code17">
-  <img src="https://img.shields.io/badge/GitHub-Nithish--code17-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=Nithish-code17&label=VISITORS&color=0891b2&style=flat-square" />
+<img src="https://img.shields.io/github/followers/Nithish-code17?label=BUILDERS%20CONNECTED&style=flat-square&color=0e7490" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## `01 // SYSTEM IDENTITY`
 
-```java
-public class NithishSarwin {
+```yaml
+developer:
+  name: "M. Nithish Sarwin"
+  location: "India"
+  role: "AI/ML Student and Software Engineer"
+  core_language: "Java"
 
-    String role = "AI/ML Student & Software Engineer";
-    String primaryLanguage = "Java";
+mission:
+  - build reliable backend systems
+  - apply AI to practical workflows
+  - automate repetitive processes
+  - turn ideas into usable products
 
-    String[] interests = {
-        "Backend Development",
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Intelligent Automation",
-        "Data-Driven Products"
-    };
-
-    String currentFocus =
-        "Building reliable backend systems and practical AI solutions";
-
-    public void build() {
-        System.out.println(
-            "Turning real-world workflows into maintainable software."
-        );
-    }
-}
+currently_exploring:
+  - Spring Boot and scalable APIs
+  - Retrieval-Augmented Generation
+  - Intelligent agents
+  - Computer vision
+  - System design
 ```
 
-I am an **Artificial Intelligence and Machine Learning student** focused on creating practical software that combines **Java backend development, AI, automation, databases, and clean user experiences**.
+I build software at the intersection of **backend engineering, artificial intelligence, automation, and real-world problem solving**.
 
-I enjoy converting repetitive or complex real-world processes into reliable systems with structured APIs, useful intelligence, and maintainable architecture.
-
-* 🔭 Building production-style **AI, backend, automation, and document-intelligence projects**
-* 🌱 Strengthening **Java, Spring Boot, DSA, system design, and database engineering**
-* 🧠 Exploring **RAG, intelligent agents, computer vision, and workflow automation**
-* ⚙️ Interested in systems that solve measurable, real-world problems
-* 💬 Ask me about **Java, Python, AI/ML, automation, backend development, and project building**
+My projects are not created only to demonstrate technologies. They are designed around actual problems such as attendance automation, product-price monitoring, document intelligence, legal information retrieval, smart printing, and visual inspection.
 
 ---
 
-## 🚀 Featured Projects
+## `02 // BUILD SIGNAL`
+
+<div align="center">
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="25%">
 
-### 🧬 [BIOSYNC](https://github.com/Nithish-code17/BIOSYNC-Smart-Attendance-and-Analytical-Platform)
+### BACKEND
 
-An automated biometric attendance management platform that transforms raw attendance logs into structured reports and real-time updates.
-
-**Highlights**
-
-* Biometric data synchronization
-* Attendance validation and processing
-* WhatsApp report automation
-* Google Drive backup
-* Watchdog-based crash recovery
-* Admin, staff, and parent monitoring
-
-**Built with:** `Python` `Pandas` `Selenium` `Google Drive API` `Automation`
+Java
+Spring Boot
+REST APIs
+Databases
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="25%">
 
-### 🛒 [Pricelytix](https://github.com/Nithish-code17/pricelytix)
+### AI / ML
 
-An AI-powered SaaS platform for tracking product prices, studying price history, and notifying users when a target price is reached.
-
-**Highlights**
-
-* Amazon and Flipkart tracking
-* AI shopping assistant
-* Target-price and email alerts
-* Price-history visualization
-* Secure multi-user authentication
-* Scheduled product refresh
-
-**Built with:** `Next.js` `TypeScript` `Prisma` `PostgreSQL` `Playwright` `AI`
+RAG
+NLP
+Computer Vision
+Prediction
 
 </td>
-</tr>
+<td align="center" width="25%">
 
-<tr>
-<td width="50%" valign="top">
+### AUTOMATION
 
-### 📄 [DocuMind AI](https://github.com/Nithish-code17/documind-ai)
-
-A multi-document Retrieval-Augmented Generation assistant for asking natural-language questions across uploaded PDF documents.
-
-**Highlights**
-
-* Multi-PDF processing
-* Semantic text chunking
-* Sentence Transformer embeddings
-* Endee vector search
-* Gemini-grounded answers
-* Retrieved-source transparency
-
-**Built with:** `Python` `Streamlit` `PyMuPDF` `Sentence Transformers` `Endee` `Gemini`
+Selenium
+Workflow Bots
+Scheduled Tasks
+Recovery Systems
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="25%">
 
-### ⚖️ [CITADREX Legal IR](https://github.com/Nithish-code17/citadrex-legal-ir)
+### PRODUCT
 
-An experimental legal information-retrieval system designed for citation-aware ranking and legal reference discovery.
-
-**Highlights**
-
-* Legal text preprocessing
-* Citation-aware retrieval
-* Candidate generation
-* Similarity-based ranking
-* Human-in-the-loop correction
-* Review-oriented result generation
-
-**Built with:** `Python` `NLP` `Information Retrieval` `Data Processing`
+Problem Analysis
+Architecture
+Development
+Iteration
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-
-### 🔬 Other Engineering Work
-
-**PCB Local Inspection** — Computer-vision workflow for inspecting printed circuit boards
-**QR Smart Printing Platform** — Cloud printing workflow with file upload, print configuration, payment, and printer mapping
-
 </div>
 
 ---
 
-## 🧰 Technical Toolbox
+## `03 // PROJECT CONSTELLATION`
 
-<div align="center">
+```mermaid
+flowchart TB
+    NS["NITHISH SARWIN<br/>AI + BACKEND + AUTOMATION"]
 
-### Languages
+    NS --> B["BIOSYNC"]
+    NS --> P["PRICELYTIX"]
+    NS --> D["DOCUMIND AI"]
+    NS --> C["CITADREX"]
+    NS --> Q["QR SMART PRINTING"]
+    NS --> V["PCB INSPECTION"]
 
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,typescript&theme=dark" alt="Programming languages" />
+    B --> B1["Biometric automation"]
+    B --> B2["Attendance analytics"]
+    B --> B3["WhatsApp + Drive"]
 
-### Backend, Web & Databases
+    P --> P1["Price tracking"]
+    P --> P2["AI recommendations"]
+    P --> P3["Alerts + history"]
 
-<img src="https://skillicons.dev/icons?i=spring,react,nextjs,html,css,tailwind,nodejs,mysql,postgres,sqlite,prisma&theme=dark" alt="Backend web and databases" />
+    D --> D1["Multi-PDF RAG"]
+    D --> D2["Vector retrieval"]
+    D --> D3["Gemini answers"]
 
-### AI, Data & Automation
+    C --> C1["Legal retrieval"]
+    C --> C2["Citation ranking"]
+    C --> C3["Review workflow"]
 
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv,selenium&theme=dark" alt="AI and automation" />
+    Q --> Q1["Cloud printing"]
+    Q --> Q2["QR mapping"]
+    Q --> Q3["Payment workflow"]
 
-<br/>
-
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG-2563EB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-<img src="https://img.shields.io/badge/REST%20APIs-06B6D4?style=for-the-badge" />
-
-### Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,vercel,postman&theme=dark" alt="Tools and platforms" />
-
-</div>
-
----
-
-## 🧭 What I Am Focused On
-
-```text
-Java + Spring Boot        → Reliable backend services and REST APIs
-DSA + System Design       → Strong problem-solving and scalable architecture
-Python + AI/ML            → Intelligent automation and data-driven products
-Databases                 → Structured, secure, and maintainable data systems
-Real-World Engineering    → Projects that solve practical operational problems
+    V --> V1["Computer vision"]
+    V --> V2["PCB analysis"]
 ```
 
 ---
 
-## 🎯 Engineering Philosophy
+## `04 // SELECTED SYSTEMS`
 
-<div align="center">
+### `BIOSYNC // Attendance Automation`
 
-> **Understand the problem clearly. Build the simplest reliable solution.
-> Automate repetitive work. Improve through real feedback.**
+> Converts raw biometric attendance into structured reports, notifications, backups, and institution-ready insights.
 
-</div>
+`Python` `Pandas` `Selenium` `Google Drive API` `Automation`
 
-I value software that is:
+* Automated biometric data extraction and processing
+* Department and student-level attendance summaries
+* WhatsApp-ready reporting
+* Google Drive synchronization and backup
+* Watchdog-based recovery after failures
 
-* **Useful** — solves a genuine problem
-* **Reliable** — handles failures and unexpected conditions
-* **Maintainable** — remains understandable as it grows
-* **Secure** — protects data and system boundaries
-* **Measurable** — creates visible improvement for its users
+**Repository:** [BIOSYNC Smart Attendance Platform](https://github.com/Nithish-code17/BIOSYNC-Smart-Attendance-and-Analytical-Platform)
 
 ---
 
-## 🤝 Connect With Me
+### `PRICELYTIX // AI Shopping Intelligence`
+
+> Tracks changing product prices and helps users decide whether to buy now, wait, or continue monitoring.
+
+`Next.js` `TypeScript` `Prisma` `PostgreSQL` `Playwright` `AI`
+
+* Amazon and Flipkart product tracking
+* Target-price notifications
+* Price-history visualization
+* AI shopping assistant
+* Authentication and user data isolation
+* Scheduled price refresh
+
+**Repository:** [Pricelytix](https://github.com/Nithish-code17/pricelytix)
+
+---
+
+### `DOCUMIND AI // Document Intelligence`
+
+> Lets users upload multiple PDFs and ask grounded natural-language questions over their content.
+
+`Python` `Streamlit` `PyMuPDF` `Sentence Transformers` `Endee` `Gemini`
+
+* Multi-document PDF processing
+* Overlapping semantic chunking
+* Vector embeddings and retrieval
+* Top-context selection
+* Gemini-generated grounded answers
+* Retrieved-source visibility
+
+**Repository:** [DocuMind AI](https://github.com/Nithish-code17/documind-ai)
+
+---
+
+### `CITADREX // Legal Information Retrieval`
+
+> Experiments with citation-aware ranking and structured retrieval across legal material.
+
+`Python` `NLP` `Information Retrieval` `Data Processing`
+
+* Legal text normalization
+* Citation and reference handling
+* Candidate generation
+* Similarity-based ranking
+* Manual review packs
+* Human-in-the-loop correction
+
+**Repository:** [CITADREX Legal IR](https://github.com/Nithish-code17/citadrex-legal-ir)
+
+---
+
+## `05 // TECHNOLOGY MATRIX`
 
 <div align="center">
 
-I am always interested in discussing **AI projects, backend engineering, automation, software architecture, and practical product ideas**.
+### Core Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,typescript&theme=dark" />
+
+### Backend and Web
+
+<img src="https://skillicons.dev/icons?i=spring,nextjs,react,nodejs,html,css,tailwind&theme=dark" />
+
+### Data and Storage
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,prisma&theme=dark" />
+
+### Engineering Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,vercel&theme=dark" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/RAG-0F766E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/REST%20APIs-0369A1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Sentence%20Transformers-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+
+</div>
+
+---
+
+## `06 // CURRENT OPERATING MODE`
+
+```text
+[01] Strengthen Java and Spring Boot
+[02] Practice DSA and problem solving
+[03] Design scalable backend systems
+[04] Build AI-powered applications
+[05] Improve testing, security, and deployment
+[06] Convert prototypes into production-ready products
+```
+
+---
+
+## `07 // ENGINEERING PRINCIPLES`
+
+| Principle                | Meaning                                                    |
+| ------------------------ | ---------------------------------------------------------- |
+| **Problem first**        | Understand the real need before selecting tools            |
+| **Reliability matters**  | Design for failures, retries, validation, and recovery     |
+| **Keep it maintainable** | Prefer clear structure over unnecessary complexity         |
+| **Use AI with purpose**  | Apply intelligence only where it creates measurable value  |
+| **Build end to end**     | Think beyond code: users, data, deployment, and operations |
+
+---
+
+## `08 // GITHUB TELEMETRY`
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nithish-code17&show_icons=true&theme=transparent&hide_border=true&title_color=22D3EE&text_color=CBD5E1&icon_color=38BDF8" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithish-code17&layout=compact&theme=transparent&hide_border=true&title_color=22D3EE&text_color=CBD5E1" />
+
+<br/>
+
+<img width="72%" src="https://streak-stats.demolab.com?user=Nithish-code17&theme=transparent&hide_border=true&ring=22D3EE&fire=38BDF8&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC" />
+
+<br/>
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nithish-code17&bg_color=00000000&color=CBD5E1&line=22D3EE&point=F8FAFC&area=true&area_color=0E7490&hide_border=true" />
+
+</div>
+
+---
+
+## `09 // OFFLINE PROJECT PIPELINE`
+
+### QR-Based Smart Printing Platform
+
+A QR-driven printing workflow where users can upload documents, configure print options, pay online, and send jobs to a mapped printer.
+
+```text
+QR Scan
+   ↓
+Upload Document
+   ↓
+Choose Print Settings
+   ↓
+Complete Payment
+   ↓
+Queue Print Job
+   ↓
+Mapped Printer Executes Job
+```
+
+---
+
+## `10 // CONNECTION UPLINK`
+
+<div align="center">
+
+### Have an idea involving AI, backend systems, automation, or practical software?
 
 <br/>
 
 <a href="https://linkedin.com/in/nithishsarwin">
-  <img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="mailto:mnithishsarwin@gmail.com">
-  <img src="https://img.shields.io/badge/Send%20an%20Email-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/SEND%20AN%20EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
 
-### Show some ❤️ by starring the repositories you find useful.
+```text
+BUILD STATUS: ACTIVE
+LEARNING MODE: CONTINUOUS
+NEXT RELEASE: BETTER THAN THE LAST
+```
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:0F172A&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,35:0E7490,70:0F172A,100:020617&height=70&section=footer" />
