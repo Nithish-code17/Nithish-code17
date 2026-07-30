@@ -107,7 +107,7 @@ Git, GitHub, Docker, Selenium, Postman, Vercel, VS Code
 
 ## Current Focus
 
-* Building backend applications with **Java and Spring Boot**
+* Building backend applications with **Python**
 * Improving **Data Structures and Algorithms**
 * Learning **system design and scalable architecture**
 * Creating practical **AI and RAG applications**
