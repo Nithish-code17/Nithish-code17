@@ -1,6 +1,6 @@
 <div align="center">
 
-# Nithish Sarwin
+# Nithish Sarw
 
 ### AI/ML Student · Java Backend Developer · Automation Builder
 
