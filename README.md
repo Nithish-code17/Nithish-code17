@@ -1,6 +1,6 @@
 <div align="center">
 
-# Nithish Sarwin Murrugesan
+# Nithish Sarwin M
 
 ### AI/ML Student · Java Backend Developer · Automation Builder
 
