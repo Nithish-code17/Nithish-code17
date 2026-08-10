@@ -16,7 +16,7 @@ I build practical software that combines **backend engineering, artificial intel
 
 ## Selected Projects
 
-### [BIOSYNC — Smart Attendance and Analytics Platform](https://github.com/Nithish-code17/BIOSYNC-Smart-Attendance-and-Analytical-Platform)
+### [BIOSYNC](https://github.com/Nithish-code17/BIOSYNC-Smart-Attendance-and-Analytical-Platform)
 
 An automated biometric attendance system that processes raw attendance data, generates structured reports, sends WhatsApp updates, and maintains Google Drive backups.
 
@@ -31,7 +31,7 @@ An automated biometric attendance system that processes raw attendance data, gen
 
 ---
 
-### [Pricelytix — AI-Powered Price Tracking Platform](https://github.com/Nithish-code17/pricelytix)
+### [Pricelytix](https://github.com/Nithish-code17/pricelytix)
 
 A full-stack SaaS application that tracks product prices, stores price history, sends target-price alerts, and provides AI-assisted shopping recommendations.
 
@@ -46,7 +46,7 @@ A full-stack SaaS application that tracks product prices, stores price history, 
 
 ---
 
-### [DocuMind AI — Multi-Document RAG Assistant](https://github.com/Nithish-code17/documind-ai)
+### [DocuMind AI](https://github.com/Nithish-code17/docum)
 
 A document intelligence application that allows users to upload multiple PDFs and ask grounded natural-language questions over their content.
 
@@ -61,7 +61,7 @@ A document intelligence application that allows users to upload multiple PDFs an
 
 ---
 
-### [CITADREX — Legal Information Retrieval](https://github.com/Nithish-code17/citadrex-legal-ir)
+### [CITADREX](https://github.com/Nithish-code17/citadrex-legal-ir)
 
 An experimental legal retrieval system focused on citation-aware ranking, legal reference discovery, and review-oriented result generation.
 
@@ -92,7 +92,7 @@ An experimental legal retrieval system focused on citation-aware ranking, legal 
 Java, Python, C, C++, JavaScript, TypeScript
 
 **Backend and Web**
-Spring Boot, REST APIs, Next.js, React, HTML, CSS, Tailwind CSS
+REST APIs, Next.js, React, HTML, CSS, Tailwind CSS
 
 **AI and Data**
 Machine Learning, RAG, NLP, Computer Vision, Pandas, scikit-learn, TensorFlow, OpenCV
