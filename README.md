@@ -101,7 +101,7 @@ Machine Learning, RAG, NLP, Computer Vision, Pandas, scikit-learn, TensorFlow, O
 MySQL, PostgreSQL, SQLite, Prisma
 
 **Tools**
-Git, GitHub, Docker, Selenium, Postman, Vercel, VS Code
+Git, GitHub, Docker, Selenium, Vercel, VS Code
 
 ---
 
@@ -117,7 +117,7 @@ Git, GitHub, Docker, Selenium, Postman, Vercel, VS Code
 
 ## About Me
 
-I am an Artificial Intelligence and Machine Learning student with a strong interest in Java backend development and intelligent automation.
+I am an Artificial Intelligence and Machine Learning student with a strong interest in Python backend development and intelligent automation.
 
 I enjoy taking a real-world problem, understanding the workflow, designing a clean solution, and building the complete system from data processing to user-facing features.
 
